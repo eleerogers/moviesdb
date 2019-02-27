@@ -1,0 +1,27 @@
+body {
+  font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif; }
+
+h1 {
+  font-size: 2em; }
+
+p {
+  font-size: 1.5em;
+  line-height: 2em; }
+
+table {
+  margin: 1em 0; }
+
+td {
+  padding: 9px; }
+
+.query-page h1 {
+  color: yellowgreen; }
+
+.query-page p {
+  color: burlywood; }
+
+.result-page h1 {
+  color: brown; }
+
+.result-page p {
+  color: crimson; }

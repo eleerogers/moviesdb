@@ -1,0 +1,25 @@
+@import 'reset';
+
+body {
+  font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 2em;
+}
+
+table {
+  margin: 1em 0
+}
+
+td {
+  padding: 9px;
+}
+
+@import 'query-page';
+@import 'result-page';
