@@ -11,7 +11,7 @@ pg.connect(
 
     db.conn = db_;
     console.log('connected to database');
-  }
+  },
 );
 
 module.exports = db;
