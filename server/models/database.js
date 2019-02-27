@@ -15,3 +15,4 @@ pg.connect(
 );
 
 module.exports = db;
+
